@@ -28,7 +28,7 @@ ol {
     grid-template-columns: 150px 1fr;}
 #grid2 {padding-left: 25px;}
 /*screen width < 600px*/
-@media(max-width:1300px) 
+@media(max-width:1000px) 
 {    #grid {
     display: block}
     ol {
